@@ -6,4 +6,4 @@
 //= require bootstrap/dist/js/bootstrap.bundle
 
 //= require jquery-easing/dist/jquery.easing.1.3.umd.min
-//= require sb-admin.min
+//= require sb-admin
